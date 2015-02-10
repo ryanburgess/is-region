@@ -15,6 +15,7 @@ region(country);
 
 ```
 ## Release History
+* 1.0.2: Add support for South America.
 * 1.0.1: Check for regions NA, EU, EMEA and APAC.
 * 1.0.0: Initial release.
  

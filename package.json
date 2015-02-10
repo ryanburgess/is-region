@@ -1,6 +1,6 @@
 {
   "name": "is-region",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A JavaScript module for checking if a country is part of a specific region.",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,9 @@
     "region",
     "is-region",
     "country",
-    "location"
+    "location",
+    "node",
+    "regions"
   ],
   "dependencies": {
   },
