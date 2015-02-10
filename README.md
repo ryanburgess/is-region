@@ -8,9 +8,14 @@ npm install is-region --save-dev
 ```
 ## Use
 ```js
-var module = require('is-region');
+var region = require('is-region');
+var country = 'UK';
+
+region(country);
+
 ```
 ## Release History
+* 1.0.1: Check for regions NA, EU, EMEA and APAC.
 * 1.0.0: Initial release.
  
 ## Contributing
