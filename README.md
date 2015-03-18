@@ -1,4 +1,4 @@
-Is Region [![Build Status](https://travis-ci.org/ryanburgess/is-region.svg)](https://travis-ci.org/ryanburgess/is-region)
+Is Region [![npm version](https://badge.fury.io/js/is-region.svg)](http://badge.fury.io/js/is-region) [![Build Status](https://travis-ci.org/ryanburgess/is-region.svg)](https://travis-ci.org/ryanburgess/is-region)
 =============
 A JavaScript module for checking if a country is part of a specific region.
 
