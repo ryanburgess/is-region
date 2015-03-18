@@ -1,4 +1,4 @@
-Is Region
+Is Region [![Build Status](https://travis-ci.org/ryanburgess/is-region.svg)](https://travis-ci.org/ryanburgess/is-region)
 =============
 A JavaScript module for checking if a country is part of a specific region.
 
